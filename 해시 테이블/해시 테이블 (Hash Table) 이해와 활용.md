@@ -78,3 +78,17 @@
 1. 배열을 이용하여 직접 해시 테이블을 구현해보세요.
 2. `HashMap`을 사용하여 LRU(Least Recently Used) 캐시를 만들어보세요.
 3. 해시 충돌을 해결하는 개방 주소법과 체이닝 방식을 각각 구현해 비교해보세요.
+
+# 참고자료
+
+https://en.wikipedia.org/wiki/Hash_table
+
+https://en.wikipedia.org/wiki/Double_hashing
+
+https://en.wikipedia.org/wiki/Open_addressing
+
+https://en.wikipedia.org/wiki/Linear_probing
+
+https://en.wikipedia.org/wiki/Quadratic_probing
+
+https://d2.naver.com/helloworld/831311
